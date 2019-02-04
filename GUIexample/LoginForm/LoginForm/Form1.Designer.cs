@@ -60,7 +60,7 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Registration Form";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            //this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // txtEmail
             // 
@@ -129,7 +129,7 @@
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(263, 20);
             this.txtPass.TabIndex = 6;
-            this.txtPass.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            //this.txtPass.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // txtCpass
             // 
